@@ -1,7 +1,6 @@
-
 # Extrator de textos PDF
 
-Este é um script simples onde você manda um arquivo PDF e obtém como saída um arquivo TXT com todo o conteúdo do PDF gravado como em formato de texto.
+Este é um script simples onde você manda um arquivo PDF e obtém como saída um arquivo TXT com todo o conteúdo do PDF gravado.
 
 
 ## Rodando localmente
@@ -46,4 +45,9 @@ python3 main.py
 Isso vai gerar um arquivo txt na raiz do projeto.
 
 Agora basta usar da forma que preferir.
+
+
+### Este Readme foi gerado com 👇
+
+[![portfolio](https://readmehub.com.br/assets/logodarkmode-6990609f.png)](https://readmehub.com.br/)
 
