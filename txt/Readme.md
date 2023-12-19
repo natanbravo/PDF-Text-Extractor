@@ -1,0 +1,1 @@
+Aqui serão gerados automaticamente todos os arquivos com o conteúdo extraído em texto dos arquivos PDF.

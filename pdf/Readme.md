@@ -1,0 +1,1 @@
+Adicione nessa pasta todos os arquivos PDF que deseja extrair seu conteúdo.
