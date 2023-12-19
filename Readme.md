@@ -32,7 +32,7 @@ WINDOWS
 ```
 
 
-Adicione o arquivo PDF na pasta (pdf) e rode o seguinte comando:
+Adicione um ou mais arquivos com a extensão ".pdf" na pasta (pdf) e rode o seguinte comando:
 
 ```
 python3 main.py
@@ -42,7 +42,7 @@ python3 main.py
 
 
 
-Isso vai gerar um arquivo txt na pasta (txt).
+Isso vai gerar um ou mais arquivos com extensão ".txt" na pasta (txt).
 
 Agora basta usar da forma que preferir 👍
 
