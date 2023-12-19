@@ -32,7 +32,7 @@ WINDOWS
 ```
 
 
-Adicione o arquivo PDF na raiz do projeto e rode o seguinte comando:
+Adicione o arquivo PDF na pasta (pdf) e rode o seguinte comando:
 
 ```
 python3 main.py
@@ -42,9 +42,9 @@ python3 main.py
 
 
 
-Isso vai gerar um arquivo txt na raiz do projeto.
+Isso vai gerar um arquivo txt na pasta (txt).
 
-Agora basta usar da forma que preferir.
+Agora basta usar da forma que preferir 👍
 
 
 ### Este Readme foi gerado com 👇
